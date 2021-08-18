@@ -1,0 +1,34 @@
+.title {
+    text-align: center;
+    margin: 2rem;
+    max-width: 62rem;
+}
+
+.btn-title {
+    width: 24rem;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.selected {
+    border: 3px solid green;
+}
+
+.result {
+    background-color: rgba(45, 55, 72, 0.27);
+}
+
+.info {
+    width: 40rem;
+    margin-left: 12.5rem;
+}
+
+table {
+    text-align: center;
+}
+
+td {
+    width: 25%;
+}
